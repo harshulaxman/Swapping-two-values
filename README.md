@@ -7,8 +7,8 @@ To write a python program for swapping of two values
 ### Step 6: 
 End the program
 ## PROGRAM:
-# Developed by:harsshitha lakshmanan
-# Register no: 212223230075
+#Developed by:harsshitha lakshmanan
+#Register no: 212223230075
 #Program to swap two values.
 num1=int(input())
 num2=int(input())

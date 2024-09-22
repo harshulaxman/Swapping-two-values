@@ -24,17 +24,21 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Developed by:harsshitha lakshmanan
-#Register no: 212223230075
-#Program to swap two values.
-num1=int(input())
-num2=int(input())
-num1,num2=num2,num1
-print('Swapped values are:',num1,num2)
+# Developed by: Harsshitha lakshmanan
+# Register no: 212223230075
+```
+```
+a = int(input())
+b = int(input())
+temp = a
+a = b
+b = temp
+print('Swapped values are:',a,b)
 ```
 ## OUTPUT:
-![Screenshot 2024-08-27 153454](https://github.com/user-attachments/assets/671ebcb9-71ff-431e-bfb2-888fcde9af94)
-![image](https://github.com/user-attachments/assets/f55734c8-6bcf-45ed-8f82-7b201ded8486)
+![image](https://github.com/user-attachments/assets/a79425f1-3d08-458d-bbc3-64e153686dfd)
+![image](https://github.com/user-attachments/assets/a7eb0b5f-74b6-4fb9-93b2-d125ce362702)
+
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
